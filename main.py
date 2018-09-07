@@ -2,7 +2,7 @@
 import random # getting random so I don't have to make one
 
 guessMe = random.randint(1, 10)
-print(guessMe) # for trouble shooting will remove later
+print(guessMe) # for trouble shooting
 
 print ("Lets play a game, guess a number 1 to 10 " ) #lets user know number range
 
